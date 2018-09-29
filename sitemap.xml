@@ -3,148 +3,148 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://maznanfb.github.io/project/project1/</loc>
+    <loc>https://maznanfb.github.io/project/project1/</loc>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/project/project2/</loc>
+    <loc>https://maznanfb.github.io/project/project2/</loc>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/project/project3/</loc>
+    <loc>https://maznanfb.github.io/project/project3/</loc>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/project/project4/</loc>
+    <loc>https://maznanfb.github.io/project/project4/</loc>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/post/creating-a-new-theme/</loc>
+    <loc>https://maznanfb.github.io/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/post/goisforlovers/</loc>
+    <loc>https://maznanfb.github.io/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/post/hugoisforlovers/</loc>
+    <loc>https://maznanfb.github.io/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/post/migrate-from-jekyll/</loc>
+    <loc>https://maznanfb.github.io/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/tags/bootstrap/</loc>
+    <loc>https://maznanfb.github.io/tags/bootstrap/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/categories/</loc>
+    <loc>https://maznanfb.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/tags/css/</loc>
+    <loc>https://maznanfb.github.io/tags/css/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/tags/development/</loc>
+    <loc>https://maznanfb.github.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/tags/go/</loc>
+    <loc>https://maznanfb.github.io/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/tags/golang/</loc>
+    <loc>https://maznanfb.github.io/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/tags/highlight-js/</loc>
+    <loc>https://maznanfb.github.io/tags/highlight-js/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/tags/html/</loc>
+    <loc>https://maznanfb.github.io/tags/html/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/tags/hugo/</loc>
+    <loc>https://maznanfb.github.io/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://maznanfb.github.io/tags/js/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://maznanfb.github.io/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://maznanfb.github.io/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://maznanfb.github.io/project/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://maznanfb.github.io/tags/responsive/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://maznanfb.github.io/tags/static-site-generator/</loc>
+    <loc>https://maznanfb.github.io/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/tags/syntax-highlighting/</loc>
+    <loc>https://maznanfb.github.io/tags/js/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/tags/</loc>
+    <loc>https://maznanfb.github.io/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maznanfb.github.io/post/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maznanfb.github.io/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maznanfb.github.io/tags/responsive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maznanfb.github.io/tags/static-site-generator/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maznanfb.github.io/tags/syntax-highlighting/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maznanfb.github.io/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/tags/template/</loc>
+    <loc>https://maznanfb.github.io/tags/template/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://maznanfb.github.io/tags/themes/</loc>
+    <loc>https://maznanfb.github.io/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
