@@ -19,32 +19,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Project 2</title>
-      <link>https://maznanfb.github.io/project/project2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.github.io/project/project2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project 3</title>
-      <link>https://maznanfb.github.io/project/project3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.github.io/project/project3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project 4</title>
-      <link>https://maznanfb.github.io/project/project4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.github.io/project/project4/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
