@@ -2,30 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>maznanfb.com</title>
-    <link>https://maznanfb.github.io/</link>
+    <link>https://maznanfb.com/</link>
     <description>Recent content on maznanfb.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://maznanfb.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://maznanfb.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project 1</title>
-      <link>https://maznanfb.github.io/project/project1/</link>
+      <link>https://maznanfb.com/project/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maznanfb.github.io/project/project1/</guid>
+      <guid>https://maznanfb.com/project/project1/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Berinvestasilah!</title>
+      <link>https://maznanfb.com/post/berinvestasilah/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/post/berinvestasilah/</guid>
+      <description>Intro Sudah dua tahun lebih saya bekerja di salah satu perusahaan swasta yang bergerak di bidang teknologi pertahanan. Dua tahun tentu bukanlah waktu yang singkat untuk menetap di perusahaan ini. Bahkan dengan dua tahun bekerja di sini, mungkin bisa dibilang saya termasuk orang yang telah ditinggal oleh banyak teman yang memilih untuk pindah bekerja ke perusahaan lain. Banyak alasannya.
+Alasan Menjadi Karyawan Alasan Menetap Jujur saja, awalnya saya sempat tergiur dengan berkerja di perushaan yang besar, sudah settle dan pastinya sudah memiliki manajemen dan jejak karir yang jelas.</description>
+    </item>
+    
+    <item>
+      <title>Menjadi Karyawan</title>
+      <link>https://maznanfb.com/post/menjadi_karyawan/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/post/menjadi_karyawan/</guid>
+      <description>Intro Sudah dua tahun lebih saya bekerja di salah satu perusahaan swasta yang bergerak di bidang teknologi pertahanan. Dua tahun tentu bukanlah waktu yang singkat untuk menetap di perusahaan ini. Bahkan dengan dua tahun bekerja di sini, mungkin bisa dibilang saya termasuk orang yang telah ditinggal oleh banyak teman yang memilih untuk pindah bekerja ke perusahaan lain. Banyak alasannya.
+Alasan Menjadi Karyawan Alasan Menetap Jujur saja, awalnya saya sempat tergiur dengan berkerja di perushaan yang besar, sudah settle dan pastinya sudah memiliki manajemen dan jejak karir yang jelas.</description>
+    </item>
+    
+    <item>
+      <title>Start Learning English!</title>
+      <link>https://maznanfb.com/post/english_training/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/post/english_training/</guid>
+      <description>Intro I don&amp;rsquo;t know how to start again to learn english. I have larned english since my shildhood, specifically since elementary school. From that I don&amp;rsquo;t confidence enough to my self. Until now I still have problem to speak english well. But it&amp;rsquo;s not a matter I hope. I still beliecve that language is not about how long I learn, but it&amp;rsquo;s about how long I train and use this language to my daily activity.</description>
+    </item>
+    
+    <item>
       <title>Blog baru</title>
-      <link>https://maznanfb.github.io/post/welcome/</link>
+      <link>https://maznanfb.com/post/welcome/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://maznanfb.github.io/post/welcome/</guid>
+      <guid>https://maznanfb.com/post/welcome/</guid>
       <description> Introduction I&amp;rsquo;ll use this blog for my journal work
 thank you! </description>
     </item>

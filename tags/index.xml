@@ -2,48 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on maznanfb.com</title>
-    <link>https://maznanfb.github.io/tags/</link>
+    <link>https://maznanfb.com/tags/</link>
     <description>Recent content in Tags on maznanfb.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://maznanfb.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://maznanfb.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>English</title>
+      <link>https://maznanfb.com/tags/english/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foreign</title>
+      <link>https://maznanfb.com/tags/foreign/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/foreign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Go</title>
-      <link>https://maznanfb.github.io/tags/go/</link>
+      <link>https://maznanfb.com/tags/go/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://maznanfb.github.io/tags/go/</guid>
+      <guid>https://maznanfb.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://maznanfb.github.io/tags/golang/</link>
+      <link>https://maznanfb.com/tags/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://maznanfb.github.io/tags/golang/</guid>
+      <guid>https://maznanfb.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://maznanfb.github.io/tags/hugo/</link>
+      <link>https://maznanfb.com/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://maznanfb.github.io/tags/hugo/</guid>
+      <guid>https://maznanfb.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karyawan</title>
+      <link>https://maznanfb.com/tags/karyawan/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/karyawan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kerja</title>
+      <link>https://maznanfb.com/tags/kerja/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/kerja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language</title>
+      <link>https://maznanfb.com/tags/language/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>https://maznanfb.com/tags/leadership/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn</title>
+      <link>https://maznanfb.com/tags/learn/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teknologi</title>
+      <link>https://maznanfb.com/tags/teknologi/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/teknologi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>https://maznanfb.github.io/tags/themes/</link>
+      <link>https://maznanfb.com/tags/themes/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://maznanfb.github.io/tags/themes/</guid>
+      <guid>https://maznanfb.com/tags/themes/</guid>
       <description></description>
     </item>
     
