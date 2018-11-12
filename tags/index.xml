@@ -84,6 +84,15 @@
     </item>
     
     <item>
+      <title>Jekyll</title>
+      <link>https://maznanfb.com/tags/jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Js</title>
       <link>https://maznanfb.com/tags/js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -98,6 +107,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://maznanfb.com/tags/responsive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Site Generator</title>
+      <link>https://maznanfb.com/tags/static-site-generator/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/tags/static-site-generator/</guid>
       <description></description>
     </item>
     
