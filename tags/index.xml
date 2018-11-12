@@ -6,7 +6,7 @@
     <description>Recent content in Tags on maznanfb.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://maznanfb.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -26,15 +26,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://maznanfb.com/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>https://maznanfb.com/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/development/</guid>
       <description></description>
     </item>
     
@@ -84,15 +75,6 @@
     </item>
     
     <item>
-      <title>Jekyll</title>
-      <link>https://maznanfb.com/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/jekyll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Js</title>
       <link>https://maznanfb.com/tags/js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -111,29 +93,11 @@
     </item>
     
     <item>
-      <title>Static Site Generator</title>
-      <link>https://maznanfb.com/tags/static-site-generator/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/static-site-generator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Syntax Highlighting</title>
       <link>https://maznanfb.com/tags/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://maznanfb.com/tags/syntax-highlighting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Template</title>
-      <link>https://maznanfb.com/tags/template/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://maznanfb.com/tags/template/</guid>
       <description></description>
     </item>
     

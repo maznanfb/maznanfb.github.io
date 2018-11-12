@@ -24,16 +24,6 @@
   </url>
   
   <url>
-    <loc>https://maznanfb.com/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://maznanfb.com/tags/bootstrap/</loc>
     <priority>0</priority>
   </url>
@@ -45,12 +35,6 @@
   
   <url>
     <loc>https://maznanfb.com/tags/css/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -83,12 +67,6 @@
   </url>
   
   <url>
-    <loc>https://maznanfb.com/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://maznanfb.com/tags/js/</loc>
     <priority>0</priority>
   </url>
@@ -110,25 +88,13 @@
   </url>
   
   <url>
-    <loc>https://maznanfb.com/tags/static-site-generator/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://maznanfb.com/tags/syntax-highlighting/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://maznanfb.com/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/template/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
