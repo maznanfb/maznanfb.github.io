@@ -3,12 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://maznanfb.com/project/project1/</loc>
+    <loc>https://maznanfb.com/project/konsultan-osn.com/</loc>
   </url>
   
   <url>
-    <loc>https://maznanfb.com/post/machine_learning_python/</loc>
-    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+    <loc>https://maznanfb.com/project/chatbot-python/</loc>
   </url>
   
   <url>
@@ -17,8 +16,18 @@
   </url>
   
   <url>
+    <loc>https://maznanfb.com/tags/application/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://maznanfb.com/tags/artifisial-intelegence/</loc>
-    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maznanfb.com/tags/blog/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -28,38 +37,18 @@
   </url>
   
   <url>
-    <loc>https://maznanfb.com/tags/go/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/golang/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/learning/</loc>
-    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://maznanfb.com/tags/machine/</loc>
-    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+    <loc>https://maznanfb.com/tags/machine-learning/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://maznanfb.com/post/</loc>
-    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maznanfb.com/tags/programming/</loc>
     <priority>0</priority>
   </url>
   
@@ -69,26 +58,30 @@
   </url>
   
   <url>
+    <loc>https://maznanfb.com/tags/python/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://maznanfb.com/tags/</loc>
-    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://maznanfb.com/tags/technology/</loc>
-    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+    <loc>https://maznanfb.com/tags/website/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://maznanfb.com/tags/themes/</loc>
+    <loc>https://maznanfb.com/tags/welcome/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://maznanfb.com/</loc>
-    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

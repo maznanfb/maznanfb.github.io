@@ -6,37 +6,38 @@
     <description>Recent content on maznanfb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://maznanfb.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Project 1</title>
-      <link>https://maznanfb.com/project/project1/</link>
+      <title>Indonesia Cendekia</title>
+      <link>https://maznanfb.com/project/konsultan-osn.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maznanfb.com/project/project1/</guid>
-      <description></description>
+      <guid>https://maznanfb.com/project/konsultan-osn.com/</guid>
+      <description>Description This web application was designed for students who need test simulation for Science Olympiade preparation. Teacher account could create any tests and questions. Tests and question created can be access by students after they order the tests, finish the payment, and verified by admin.
+There are three types of question, such as: single choise, short answer, and essay. Not only Computer Base Test, this application also be equipped by free online course, news page, download page, etc.</description>
     </item>
     
     <item>
-      <title>Chat Bot menggunakan Python</title>
-      <link>https://maznanfb.com/post/machine_learning_python/</link>
-      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      <title>ChatBot Menggunakan Python</title>
+      <link>https://maznanfb.com/project/chatbot-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maznanfb.com/post/machine_learning_python/</guid>
+      <guid>https://maznanfb.com/project/chatbot-python/</guid>
       <description>Intro Machine Learning adalah teknologi yang sedang booming akhir-akhir ini. Seiring dengan perkembangan sistem informasi, data pun menjadi hal yang sangat berharga. Dengan data perusahaan yang tidak punya aset fisik sekali pun dapat menjual perusahaannya dengan harga yang fantastik. Inilah yang kerap terjadi pada perusahaan start-up. Ini akan menjadi hal yang sangat menarik sekaligus ancaman bagi bisnis-bisnis konvensional yang lengah dengan perkembangan teknologi.
 Konfigurasi  python 3.6 jupyter notebook library nltk data set nltk  Program Sederhana import nltk import numpy as np import random import string # to process standard python strings from sklearn.</description>
     </item>
     
     <item>
-      <title>Blog baru</title>
+      <title>Welcome</title>
       <link>https://maznanfb.com/post/welcome/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>https://maznanfb.com/post/welcome/</guid>
-      <description> Introduction I&amp;rsquo;ll use this blog for my journal work
+      <description> Introduction Hello.. I&amp;rsquo;ll use this blog for my journal work.
 thank you! </description>
     </item>
     
