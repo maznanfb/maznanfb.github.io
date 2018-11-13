@@ -4,7 +4,7 @@
          
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Chat Bot menggunakan Pythonzzz</title>
+        <title>Chat Bot menggunakan Python</title>
         
         <style>
 
@@ -107,7 +107,7 @@
                     
 
                     
-                        <ul class="nav navbar-nav navbar-right">
+                        <ul class="nav navbar-nav navbar-right ">
                             
                                 <li class="navbar-icon"><a href="mailto:muh.aznan@gmail.com"><i class="fa fa-envelope-o"></i></a></li>
                             
@@ -159,15 +159,116 @@
 
 <p>Machine Learning adalah teknologi yang sedang booming akhir-akhir ini. Seiring dengan perkembangan sistem informasi, data pun menjadi hal yang sangat berharga. Dengan data perusahaan yang tidak punya aset fisik sekali pun dapat menjual perusahaannya dengan harga yang fantastik. Inilah yang kerap terjadi pada perusahaan start-up. Ini akan menjadi hal yang sangat menarik sekaligus ancaman bagi bisnis-bisnis konvensional yang lengah dengan perkembangan teknologi.</p>
 
-<h2 id="alasan-menjadi-karyawan">Alasan Menjadi Karyawan</h2>
+<h2 id="konfigurasi">Konfigurasi</h2>
 
-<h2 id="alasan-menetap">Alasan Menetap</h2>
+<ol>
+<li>python 3.6</li>
+<li>jupyter notebook</li>
+<li>library nltk</li>
+<li>data set nltk</li>
+</ol>
 
-<p>Jujur saja, awalnya saya sempat tergiur dengan berkerja di perushaan yang besar, sudah settle dan pastinya sudah memiliki manajemen dan jejak karir yang jelas. Sempat ada keinginan untuk mencoba yang lain dan mencari yang menawarkan gaji lebih besar.
-Tapi bukan hanya masalah gaji,
-1. Ketika di sini ibadah sama sekali tidak terganggu dan bisa tenang.
-2. Ruang kreasi yang terbuka lebar
-3. Bela negara dengan sumbangsi teknologi</p>
+<h2 id="program-sederhana">Program Sederhana</h2>
+
+<pre><code>import nltk
+import numpy as np
+import random
+import string # to process standard python strings
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
+f=open('chatbot.txt','r', errors = 'ignore')
+raw=f.read()
+raw=raw.lower()# converts to lowercase
+# nltk.download('punkt') # first-time use only
+# nltk.download('wordnet') # first-time use only
+sent_tokens = nltk.sent_tokenize(raw)# converts to list of sentences 
+word_tokens = nltk.word_tokenize(raw)# converts to list of words
+
+# print(sent_tokens[:1])
+# print(word_tokens[:2])
+
+# ### pre-processing the raw text
+
+# In[2]:
+lemmer = nltk.stem.WordNetLemmatizer()
+#WordNet is a semantically-oriented dictionary of English included in NLTK.
+def LemTokens(tokens):
+    return [lemmer.lemmatize(token) for token in tokens]
+remove_punct_dict = dict((ord(punct), None) for punct in string.punctuation)
+def LemNormalize(text):
+    return LemTokens(nltk.word_tokenize(text.lower().translate(remove_punct_dict)))
+
+
+# ### keyword matching
+
+# In[3]:
+
+
+GREETING_INPUTS = (&quot;hello&quot;, &quot;hi&quot;, &quot;greetings&quot;, &quot;sup&quot;, &quot;what's up&quot;,&quot;hey&quot;,)
+GREETING_RESPONSES = [&quot;hi&quot;, &quot;hey&quot;, &quot;*nods*&quot;, &quot;hi there&quot;, &quot;hello&quot;, &quot;I am glad! You are talking to me&quot;]
+def greeting(sentence):
+ 
+    for word in sentence.split():
+        if word.lower() in GREETING_INPUTS:
+            return random.choice(GREETING_RESPONSES)
+
+
+# ### generating response
+
+# In[4]:
+
+
+def response(user_response):
+    robo_response=''
+    TfidfVec = TfidfVectorizer(tokenizer=LemNormalize, stop_words='english')
+    tfidf = TfidfVec.fit_transform(sent_tokens)
+    vals = cosine_similarity(tfidf[-1], tfidf)
+    idx=vals.argsort()[0][-2]
+    flat = vals.flatten()
+    flat.sort()
+    req_tfidf = flat[-2]
+    if(req_tfidf==0):
+        robo_response=robo_response+&quot;I am sorry! I don't understand you&quot;
+        return robo_response
+    else:
+        robo_response = robo_response+sent_tokens[idx]
+        return robo_response
+
+
+# ### ready
+
+# In[5]:
+
+
+flag=True
+print(&quot;ROBO: My name is Robo. I will answer your queries about Chatbots. If you want to exit, type Bye!&quot;)
+while(flag==True):
+    user_response = input()
+    user_response=user_response.lower()
+    if(user_response!='bye'):
+        if(user_response=='thanks' or user_response=='thank you' ):
+            flag=False
+            print(&quot;ROBO: You are welcome..&quot;)
+        else:
+            if(greeting(user_response)!=None):
+                print(&quot;ROBO: &quot;+greeting(user_response))
+            else:
+                sent_tokens.append(user_response)
+                word_tokens=word_tokens+nltk.word_tokenize(user_response)
+                final_words=list(set(word_tokens))
+                print(&quot;ROBO: &quot;,end=&quot;&quot;)
+                print(response(user_response))
+                sent_tokens.remove(user_response)
+    else:
+        flag=False
+        print(&quot;ROBO: Bye! take care..&quot;)
+
+
+# In[ ]:
+
+
+</code></pre>
 
 <h3 id="thank-you">thank you!</h3>
 </div>
