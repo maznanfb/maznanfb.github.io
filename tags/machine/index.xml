@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine on maznanfb.com</title>
+    <link>https://maznanfb.com/tags/machine/</link>
+    <description>Recent content in Machine on maznanfb.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://maznanfb.com/tags/machine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chat Bot menggunakan Python</title>
+      <link>https://maznanfb.com/post/machine_learning_python/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://maznanfb.com/post/machine_learning_python/</guid>
+      <description>Intro Machine Learning adalah teknologi yang sedang booming akhir-akhir ini. Seiring dengan perkembangan sistem informasi, data pun menjadi hal yang sangat berharga. Dengan data perusahaan yang tidak punya aset fisik sekali pun dapat menjual perusahaannya dengan harga yang fantastik. Inilah yang kerap terjadi pada perusahaan start-up. Ini akan menjadi hal yang sangat menarik sekaligus ancaman bagi bisnis-bisnis konvensional yang lengah dengan perkembangan teknologi.
+Alasan Menjadi Karyawan Alasan Menetap Jujur saja, awalnya saya sempat tergiur dengan berkerja di perushaan yang besar, sudah settle dan pastinya sudah memiliki manajemen dan jejak karir yang jelas.</description>
+    </item>
+    
+  </channel>
+</rss>
