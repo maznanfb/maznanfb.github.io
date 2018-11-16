@@ -69,6 +69,24 @@
         
         
         
+        
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74408604-4"></script>
+        <script>
+            if (window.location.hostname === "localhost")
+            {
+                console.log("local bro");
+            }
+            else
+            {
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments)};
+                gtag('js', new Date());
+
+                gtag('config', 'UA-74408604-4');
+            }
+          
+        </script>
+        
     </head>
 
     
