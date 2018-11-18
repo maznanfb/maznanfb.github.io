@@ -15,6 +15,10 @@
   </url>
   
   <url>
+    <loc>https://maznanfb.com/project/servo-overload-protector/</loc>
+  </url>
+  
+  <url>
     <loc>https://maznanfb.com/post/tetap-terjaga/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
   </url>
@@ -236,6 +240,11 @@
   </url>
   
   <url>
+    <loc>https://maznanfb.com/tags/overload-protection/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://maznanfb.com/tags/pendidikan/</loc>
     <lastmod>2015-07-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -294,6 +303,11 @@
   
   <url>
     <loc>https://maznanfb.com/tags/sensor/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maznanfb.com/tags/servo/</loc>
     <priority>0</priority>
   </url>
   
