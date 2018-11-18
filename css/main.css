@@ -98,6 +98,7 @@ footer {
 
 img {
     max-width: 100%;
+
 }
 
 .with-bg-size {
@@ -109,4 +110,11 @@ img {
   background-position: center;
   /* Make the background image cover the area of the <div>, and clip the excess */
   background-size: cover;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
 }
